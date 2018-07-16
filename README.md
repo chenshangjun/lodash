@@ -1,2 +1,2 @@
 # lodash
-lodash函数实现
+* 实现大约80%的lodash函数
